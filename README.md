@@ -8,7 +8,7 @@
   <img align="right" width="500px"src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark">
   <p>📎 I'm currently a Front End Engineering student at <a href="https://turing.io/">Turing School Of Software and Design</a></p>
   <p>👩‍🎓 I graduated from <a href="https://www.colorado.edu/">University of Colorado at Boulder</a> with a BS in Kinesiology</p>
-  <p>🔭 I’m currently working on honing my basic understanding of software development so I can land that job that suits me</p>
+  <p>🔭 My current goal is to improve my understanding of software development so I can flourish</p>
 </div>
 
 
