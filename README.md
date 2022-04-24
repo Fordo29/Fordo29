@@ -1,25 +1,25 @@
-# Christine Rowland (She/Her)
+## Christine Rowland (She/Her)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=E3BE7A&width=580&lines=Welcome+to+Christine+Rowland's+Github;Where+everyday+is+an+adventure+in+learning">
 </p>
 
-## About Me:
+### About Me:
 <div>
-  <img align="right" width="500px"src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark">
-  <p>📎 I'm currently a Front End Engineering student at <a href="https://turing.io/">Turing School Of Software and Design</a></p>
-  <p>👩‍🎓 I graduated from <a href="https://www.colorado.edu/">University of Colorado at Boulder</a> with a BS in Kinesiology</p>
-  <p>🔭 My current goal is to improve my understanding of software development so I can flourish</p>
+  <img align="right" width="450px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark">
+  <p>📎 I'm currently a Front End Engineering student at <br><a href="https://turing.io/">Turing School Of Software and Design</a></p>
+  <p>👩‍🎓 I graduated from <a href="https://www.colorado.edu/">University of Colorado at Boulder</a><br> with a BS in Kinesiology</p>
+  <p>🔭 My current goal is to improve my understanding of<br> software development so I can flourish</p>
 </div>
 
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fordo29@gmail.com)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christine-rowland/)
 
 
-## Languages || Frameworks
+### Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
